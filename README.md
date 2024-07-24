@@ -29,8 +29,8 @@ A sleek and user-friendly desktop application that allows users to explore GitHu
 ## Installation
 
 1. Clone this repository
-2. Install the required dependencies:
-3.  Run the script
+2. Install the required dependencies:pip install requests ttkbootstrap
+4.  Run the script
 
 ## Future Enhancements
 
